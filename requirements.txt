@@ -1,0 +1,9 @@
+yfinance
+matplotlib
+statsmodels
+sklearn
+pydot
+graphviz
+keras
+seaborn
+tensorflow
